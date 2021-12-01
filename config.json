@@ -4,6 +4,6 @@
       "secret": "68ubmV-sARFnVKspPW1L_h6KLweKWf5u",
       "token": "OTE1MjMyNTgxNDM0MzQzNDM0.YaYmww.7hgDKXeaQMytsPGORdy8eWAU3HU"
     },
-    "dashboardURL": "http://localhost:3000",
+    "dashboardURL": "https://easytickets.discord.io/",
     "mongoURI": "mongodb+srv://Alexandruq666A:<password>@cluster0.bln0v.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
   }
